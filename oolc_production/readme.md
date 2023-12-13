@@ -12,9 +12,9 @@
 * material:   
  
 
-### a4_2_size_test_a5_1.cdr
-* link: [/a4_2_size_test_a5_1.cdr](a4_2_size_test_a5_1.cdr)  
-![](a4_2_size_test_a5_1.cdr/working_300.png)  
+### a4_2_size_test_a5_1
+* link: [/a4_2_size_test_a5_1](a4_2_size_test_a5_1)  
+![](a4_2_size_test_a5_1/working_300.png)  
 * width:   
 * height:   
 * thickness:   
