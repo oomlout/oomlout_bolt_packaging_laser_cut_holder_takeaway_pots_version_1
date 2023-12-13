@@ -1,13 +1,7 @@
-project_id: glassgarden_oolc_decorative_item_seed_pods
-project_name: "seed pods"
-project_repo: github.com/oomlout/glassgarden_oolc_decorative_item_seed_pods
+project_id: oomlout_bolt_packaging_working
+project_name: "Bolt Packaging Working"
+project_repo: https://github.com/oomlout/oomlout_bolt_packaging_working
 production_format:
-  a4_1:
-    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_a4_1.cdr
-  tileable_1_rudebekia:
-    file_location: source_files/glassgarden_oolc_decorative_item_seed_pods_rudebekia_tileable.cdr
-    width: 162 mm
-    height: 594 mm
-  
-  
+  a4_1_size_test_30_ml_majestic_hinged:
+    file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_30_ml_majestic_hinged.cdr
   
