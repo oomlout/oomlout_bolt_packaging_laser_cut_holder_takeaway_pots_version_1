@@ -5,4 +5,4 @@ production_format:
   a4_1_size_test_30_ml_majestic_hinged:
     file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_30_ml_majestic_hinged.cdr
   a4_2_size_test_a5_1.cdr:
-    dilfe_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_a5_1.cdr
+    file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_a5_1.cdr
