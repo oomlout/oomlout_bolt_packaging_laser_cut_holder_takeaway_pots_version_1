@@ -10,3 +10,5 @@ production_format:
     file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_a5_2.cdr
   a4_4_size_test_a5_1:
     file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_a5_3.cdr
+  a4_45_size_test_a5_1:
+    file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_a5_4.cdr
