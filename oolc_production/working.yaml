@@ -2,13 +2,11 @@ project_id: oomlout_bolt_packaging_working
 project_name: "Bolt Packaging Working"
 project_repo: https://github.com/oomlout/oomlout_bolt_packaging_working
 production_format:
-  a4_1_size_test_30_ml_majestic_hinged:
-    file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_30_ml_majestic_hinged.cdr
-  a4_2_size_test_a5_1:
-    file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_a5_1.cdr
-  a4_3_size_test_a5_1:
-    file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_a5_2.cdr
-  a4_4_size_test_a5_1:
-    file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_a5_3.cdr
-  a4_45_size_test_a5_1:
-    file_location: source_files/oolc_a4_oomlout_bolt_packaging_size_test_a5_4.cdr
+  a4_1_size_test_circular_pot_1_oz:
+    file_location: source_files/oolc_a4_1.cdr
+  a4_2_size_test_circular_pot_2_oz:
+    file_location: source_files/oolc_a4_2.cdr
+  a4_3_size_test_circular_pot_4_oz:
+    file_location: source_files/oolc_a4_3.cdr
+  
+  
