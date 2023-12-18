@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="510mm" height="510mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 51000 51000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="690" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Lucida Sans Unicode">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="3" horiz-adv-x="632"><path d="M102 5l0 90c68.6693,-27.3307 122.504,-41 162,-41 46.5039,0 84,13.3307 112.835,40.1654 28.8346,26.8346 43.1654,61.8346 43.1654,104.835 0,102 -71,153 -213,153l-38 0 0 64.5039 33.6693 0.496063c133.496,0 200.331,47 200.331,141.165 0,73.8346 -44.3307,110.835 -132.835,110.835 -47.4961,0 -100.165,-13.6693 -158.165,-41l0 84c56.8346,19.3307 111.669,29 164.331,29 71.6693,0 126.835,-14.3307 165.173,-43 38.3307,-28.4961 57.4961,-70 57.4961,-124.331 0,-84.8346 -50.1654,-145.339 -150.669,-181.339 116.504,-27.1654 174.669,-91 174.669,-191.827 0,-68 -22.4961,-121.504 -67.3307,-160.339 -44.8346,-38.8346 -106.504,-58.1654 -184.835,-58.1654 -44.6693,0 -100.835,7.66929 -168.835,23z"/></glyph>
+   <glyph unicode="0" horiz-adv-x="632"><path d="M315.999 -18c-75.8328,0 -136.996,34.8308 -183.331,104.333 -46.5001,69.5021 -69.6675,161.168 -69.6675,275.168 0,114 23.1674,205.666 69.6675,275.168 46.3347,69.4962 107.498,104.333 183.331,104.333 76.1694,0 137.333,-34.6654 183.668,-104.002 46.1694,-69.3308 69.3308,-161.168 69.3308,-275.499 0,-114 -23.1615,-205.666 -69.3308,-275.168 -46.3347,-69.5021 -107.498,-104.333 -183.668,-104.333zm-0.165355 72.0001c100.169,0 150.166,102.502 150.166,307.501 0,204.998 -49.9962,307.501 -150.166,307.501 -99.8329,0 -149.835,-102.502 -149.835,-307.501 0,-204.998 50.0021,-307.501 149.835,-307.501z"/></glyph>
+   <glyph unicode="2" horiz-adv-x="632"><path d="M83.0021 0l0 84.0002c27.9981,65.4982 84.4962,137.002 169.666,214.164l54.9981 49.3347c70.8368,64.3348 106.335,128.002 106.335,191.333 0,40.5001 -12.1654,72.1655 -36.3367,95.3329 -24.1654,23.1674 -57.6615,34.8367 -100.164,34.8367 -49.6655,0 -108.502,-19.004 -176.498,-57.0001l0 84.0002c64.1635,30.0001 127.996,45.0001 191.664,45.0001 67.6655,0 122.002,-18.1654 162.998,-54.6674 40.8367,-36.502 61.3348,-84.8328 61.3348,-145.17 0,-43.3288 -10.3347,-81.8328 -30.9981,-115.329 -20.8347,-33.6674 -59.3328,-74.3328 -115.837,-122.333l-37.1635 -31.6713c-77.3328,-65.4982 -122.002,-128.162 -134.002,-187.831l315.001 0 0 -84.0002 -430.997 0z"/></glyph>
+   <glyph unicode="m" horiz-adv-x="933"><path d="M96.0002 0l0 529.997 96.0002 0 0 -100.164c46.8308,74.1675 106.831,111.166 180.331,111.166 70.8368,0 119.002,-36.9981 144.668,-111.166 45.5021,74.8348 104.835,112.164 177.668,112.164 46.5001,0 82.6655,-13.6654 108.502,-41.1615 25.8308,-27.502 38.8288,-66.0001 38.8288,-115.5l0 -385.335 -96.0002 0 0 369.503c0,60.3308 -24,90.4962 -72.0001,90.4962 -49.8308,0 -102.166,-35.1674 -156.998,-105.668l0 -354.331 -96.0002 0 0 369.833c0,60.8328 -24.3308,91.1695 -73.1635,91.1695 -48.5021,0 -100.5,-35.3387 -155.835,-106.17l0 -354.833 -96.0002 0z"/></glyph>
+   <glyph unicode="1" horiz-adv-x="632"><path d="M261.999 0l0 651.001 -114.998 0 0 60.0001 210.998 18 0 -729.001 -96.0002 0z"/></glyph>
+   <glyph unicode="l" horiz-adv-x="288"><path d="M96.0002 0l0 771.002 96.0002 0 0 -771.002 -96.0002 0z"/></glyph>
+   <glyph unicode="6" horiz-adv-x="632"><path d="M172 374.669c46,59.4961 103.835,89.3307 173.504,89.3307 63.1654,0 114.827,-20.8346 155.165,-62.6693 40.1654,-41.8268 60.3307,-95.4961 60.3307,-161 0,-75.1654 -22.4961,-137 -67.6693,-185.496 -45.1654,-48.5039 -102.496,-72.8346 -172.331,-72.8346 -79.3307,0 -141.669,32.1654 -186.496,96.3307 -45,64.3386 -67.5039,153.339 -67.5039,266.835 0,153 39.3307,265.165 117.835,336.835 42.6693,39.3307 101.669,59 176.835,59 43.6614,0 97.8346,-9 162.331,-27l0 -84c-68.1654,26 -124.165,39 -168.165,39 -122.504,0 -183.835,-98.1654 -183.835,-294.331zm293 -153.339c0,53.5039 -12.3307,95.8346 -37.1654,127 -24.8346,31.1732 -58.8346,46.6693 -102,46.6693 -41.1654,0 -76.3307,-13.6693 -105.669,-41.1654 -29.4961,-27.3307 -44.1654,-60.3307 -44.1654,-98.8346 0,-60.6693 14,-109.331 41.8346,-146 28,-36.6693 65,-55 111,-55 41.8346,0 75,15 99.4961,45 24.5039,30 36.6693,70.8346 36.6693,122.331z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Lucida Sans Unicode";src:url("#FontID0") format(svg)}
+    .str0 {stroke:black;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .str2 {stroke:blue;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:aqua;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+    .fil1 {fill:aqua}
+    .fnt1 {font-weight:normal;font-size:1270;font-family:'Lucida Sans Unicode'}
+    .fnt0 {font-weight:normal;font-size:1693.33;font-family:'Lucida Sans Unicode'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="35250" cy="8063" r="150"/>
+  <circle class="fil0 str0" cx="35250" cy="8813" r="300"/>
+  <circle class="fil0 str0" cx="35250" cy="9563" r="150"/>
+  <circle class="fil0 str0" cx="35250" cy="10313" r="300"/>
+  <circle class="fil0 str0" cx="35250" cy="11063" r="150"/>
+  <circle class="fil0 str0" cx="33750" cy="8063" r="150"/>
+  <circle class="fil0 str0" cx="33750" cy="8813" r="300"/>
+  <circle class="fil0 str0" cx="33750" cy="9563" r="150"/>
+  <circle class="fil0 str0" cx="33750" cy="10313" r="300"/>
+  <circle class="fil0 str0" cx="33750" cy="11063" r="150"/>
+  <circle class="fil0 str0" cx="34500" cy="8813" r="150"/>
+  <circle class="fil0 str0" cx="34500" cy="10313" r="150"/>
+  <circle class="fil0 str0" cx="17250" cy="8063" r="150"/>
+  <circle class="fil0 str0" cx="17250" cy="8813" r="300"/>
+  <circle class="fil0 str0" cx="17250" cy="9563" r="150"/>
+  <circle class="fil0 str0" cx="17250" cy="10313" r="300"/>
+  <circle class="fil0 str0" cx="17250" cy="11063" r="150"/>
+  <circle class="fil0 str0" cx="15750" cy="8063" r="150"/>
+  <circle class="fil0 str0" cx="15750" cy="8813" r="300"/>
+  <circle class="fil0 str0" cx="15750" cy="9563" r="150"/>
+  <circle class="fil0 str0" cx="15750" cy="10313" r="300"/>
+  <circle class="fil0 str0" cx="15750" cy="11063" r="150"/>
+  <circle class="fil0 str0" cx="16500" cy="8813" r="150"/>
+  <circle class="fil0 str0" cx="16500" cy="10313" r="150"/>
+  <circle class="fil0 str0" cx="15750" cy="24000" r="150"/>
+  <circle class="fil0 str0" cx="15750" cy="24750" r="300"/>
+  <circle class="fil0 str0" cx="15750" cy="25500" r="150"/>
+  <circle class="fil0 str0" cx="15750" cy="26250" r="300"/>
+  <circle class="fil0 str0" cx="15750" cy="27000" r="150"/>
+  <circle class="fil0 str0" cx="21750" cy="24000" r="150"/>
+  <circle class="fil0 str0" cx="21750" cy="24750" r="300"/>
+  <circle class="fil0 str0" cx="21750" cy="25500" r="150"/>
+  <circle class="fil0 str0" cx="21750" cy="26250" r="300"/>
+  <circle class="fil0 str0" cx="21750" cy="27000" r="150"/>
+  <circle class="fil0 str0" cx="29250" cy="24000" r="150"/>
+  <circle class="fil0 str0" cx="29250" cy="24750" r="300"/>
+  <circle class="fil0 str0" cx="29250" cy="25500" r="150"/>
+  <circle class="fil0 str0" cx="29250" cy="26250" r="300"/>
+  <circle class="fil0 str0" cx="29250" cy="27000" r="150"/>
+  <circle class="fil0 str0" cx="35250" cy="24000" r="150"/>
+  <circle class="fil0 str0" cx="35250" cy="24750" r="300"/>
+  <circle class="fil0 str0" cx="35250" cy="25500" r="150"/>
+  <circle class="fil0 str0" cx="35250" cy="26250" r="300"/>
+  <circle class="fil0 str0" cx="35250" cy="27000" r="150"/>
+  <circle class="fil0 str0" cx="15750" cy="32250" r="300"/>
+  <circle class="fil0 str0" cx="16500" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="17250" cy="32250" r="300"/>
+  <circle class="fil0 str0" cx="18000" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="19500" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="20250" cy="32250" r="300"/>
+  <circle class="fil0 str0" cx="21000" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="21750" cy="32250" r="300"/>
+  <circle class="fil0 str0" cx="22500" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="32250" r="300"/>
+  <circle class="fil0 str0" cx="24000" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="27000" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="27750" cy="32250" r="300"/>
+  <circle class="fil0 str0" cx="28500" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="29250" cy="32250" r="300"/>
+  <circle class="fil0 str0" cx="30000" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="30750" cy="32250" r="300"/>
+  <circle class="fil0 str0" cx="31500" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="33000" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="33750" cy="32250" r="300"/>
+  <circle class="fil0 str0" cx="34500" cy="32250" r="150"/>
+  <circle class="fil0 str0" cx="35250" cy="32250" r="300"/>
+  <circle class="fil0 str0" cx="15750" cy="18750" r="300"/>
+  <circle class="fil0 str0" cx="16500" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="17250" cy="18750" r="300"/>
+  <circle class="fil0 str0" cx="18000" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="19500" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="20250" cy="18750" r="300"/>
+  <circle class="fil0 str0" cx="21000" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="21750" cy="18750" r="300"/>
+  <circle class="fil0 str0" cx="22500" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="18750" r="300"/>
+  <circle class="fil0 str0" cx="24000" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="27000" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="27750" cy="18750" r="300"/>
+  <circle class="fil0 str0" cx="28500" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="29250" cy="18750" r="300"/>
+  <circle class="fil0 str0" cx="30000" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="30750" cy="18750" r="300"/>
+  <circle class="fil0 str0" cx="31500" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="33000" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="33750" cy="18750" r="300"/>
+  <circle class="fil0 str0" cx="34500" cy="18750" r="150"/>
+  <circle class="fil0 str0" cx="35250" cy="18750" r="300"/>
+  <circle class="fil0 str0" cx="35250" cy="19500" r="150"/>
+  <circle class="fil0 str0" cx="35250" cy="31500" r="150"/>
+  <circle class="fil0 str0" cx="21750" cy="19500" r="150"/>
+  <circle class="fil0 str0" cx="29250" cy="19500" r="150"/>
+  <circle class="fil0 str0" cx="21750" cy="31500" r="150"/>
+  <circle class="fil0 str0" cx="29250" cy="31500" r="150"/>
+  <circle class="fil0 str0" cx="15750" cy="19500" r="150"/>
+  <circle class="fil0 str0" cx="15750" cy="31500" r="150"/>
+  <path class="fil0 str0" d="M14675 48763l0 -14650c0,-276 224,-500 500,-500l20650 0c276,0 500,224 500,500l0 14650c0,276 -224,500 -500,500l-20650 0c-276,0 -500,-224 -500,-500z"/>
+  <circle class="fil0 str0" cx="15750" cy="41438" r="150"/>
+  <circle class="fil0 str0" cx="15750" cy="40688" r="300"/>
+  <circle class="fil0 str0" cx="15750" cy="48188" r="300"/>
+  <circle class="fil0 str0" cx="21750" cy="34688" r="300"/>
+  <circle class="fil0 str0" cx="29250" cy="48188" r="300"/>
+  <circle class="fil0 str0" cx="35250" cy="34688" r="300"/>
+  <circle class="fil0 str0" cx="35250" cy="41438" r="150"/>
+  <circle class="fil0 str0" cx="35250" cy="42188" r="300"/>
+  <circle class="fil0 str0" cx="28500" cy="34688" r="150"/>
+  <circle class="fil0 str0" cx="22500" cy="34688" r="150"/>
+  <circle class="fil0 str0" cx="28500" cy="48188" r="150"/>
+  <circle class="fil0 str0" cx="22500" cy="48188" r="150"/>
+  <g id="_785366864">
+   <text x="30573" y="37014"  class="fil1 fnt0">120</text>
+   <text x="31144" y="39616"  class="fil1 fnt0">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.55532 -1.55532 1.55532 1.55532 32250 37687.5)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.1172 -1.1172 1.1172 1.1172 32250 37687.5)" r="1614"/>
+   <path class="fil0 str2" d="M30058 34895c1393,-1096 3417,-1002 4702,283 1204,1204 1362,3059 474,4434l339 339 -1061 1061 -339 -339c-1375,888 -3229,730 -4434,-474 -1285,-1285 -1379,-3309 -283,-4702l-442 -442 601 -601 442 442z"/>
+   <circle class="fil0 str0" cx="32250" cy="37688" r="3300"/>
+  </g>
+  <g id="_785360080">
+   <text x="17073" y="37014"  class="fil1 fnt0">120</text>
+   <text x="17644" y="39616"  class="fil1 fnt0">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.55532 -1.55532 1.55532 1.55532 18750 37687.5)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.1172 -1.1172 1.1172 1.1172 18750 37687.5)" r="1614"/>
+   <path class="fil0 str2" d="M16558 34895c1393,-1096 3417,-1002 4702,283 1204,1204 1362,3059 474,4434l339 339 -1061 1061 -339 -339c-1375,888 -3229,730 -4434,-474 -1285,-1285 -1379,-3309 -283,-4702l-442 -442 601 -601 442 442z"/>
+   <circle class="fil0 str0" cx="18750" cy="37688" r="3300"/>
+  </g>
+  <g id="_785352592">
+   <text x="30573" y="44514"  class="fil1 fnt0">120</text>
+   <text x="31144" y="47116"  class="fil1 fnt0">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.55532 -1.55532 1.55532 1.55532 32250 45187.5)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.1172 -1.1172 1.1172 1.1172 32250 45187.5)" r="1614"/>
+   <path class="fil0 str2" d="M30058 42395c1393,-1096 3417,-1002 4702,283 1204,1204 1362,3059 474,4434l339 339 -1061 1061 -339 -339c-1375,888 -3229,730 -4434,-474 -1285,-1285 -1379,-3309 -283,-4702l-442 -442 601 -601 442 442z"/>
+   <circle class="fil0 str0" cx="32250" cy="45188" r="3300"/>
+  </g>
+  <g id="_785344208">
+   <text x="17073" y="44514"  class="fil1 fnt0">120</text>
+   <text x="17644" y="47116"  class="fil1 fnt0">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.55532 -1.55532 1.55532 1.55532 18750 45187.5)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.1172 -1.1172 1.1172 1.1172 18750 45187.5)" r="1614"/>
+   <path class="fil0 str2" d="M16558 42395c1393,-1096 3417,-1002 4702,283 1204,1204 1362,3059 474,4434l339 339 -1061 1061 -339 -339c-1375,888 -3229,730 -4434,-474 -1285,-1285 -1379,-3309 -283,-4702l-442 -442 601 -601 442 442z"/>
+   <circle class="fil0 str0" cx="18750" cy="45188" r="3300"/>
+  </g>
+  <g id="_785337264">
+   <text x="23823" y="40764"  class="fil1 fnt0">120</text>
+   <text x="24394" y="43366"  class="fil1 fnt0">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.55532 -1.55532 1.55532 1.55532 25500 41437.5)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.1172 -1.1172 1.1172 1.1172 25500 41437.5)" r="1614"/>
+   <path class="fil0 str2" d="M23308 38645c1393,-1096 3417,-1002 4702,283 1204,1204 1362,3059 474,4434l339 339 -1061 1061 -339 -339c-1375,888 -3229,730 -4434,-474 -1285,-1285 -1379,-3309 -283,-4702l-442 -442 601 -601 442 442z"/>
+   <circle class="fil0 str0" cx="25500" cy="41438" r="3300"/>
+  </g>
+  <circle class="fil0 str0" cx="27750" cy="48188" r="300"/>
+  <circle class="fil0 str0" cx="27000" cy="48188" r="150"/>
+  <circle class="fil0 str0" cx="26250" cy="48188" r="300"/>
+  <circle class="fil0 str0" cx="25500" cy="48188" r="150"/>
+  <circle class="fil0 str0" cx="24750" cy="48188" r="300"/>
+  <circle class="fil0 str0" cx="24000" cy="48188" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="48188" r="300"/>
+  <circle class="fil0 str0" cx="21750" cy="48188" r="300"/>
+  <circle class="fil0 str0" cx="28500" cy="46688" r="150"/>
+  <circle class="fil0 str0" cx="22500" cy="46688" r="150"/>
+  <circle class="fil0 str0" cx="27750" cy="46688" r="300"/>
+  <circle class="fil0 str0" cx="27000" cy="46688" r="150"/>
+  <circle class="fil0 str0" cx="26250" cy="46688" r="300"/>
+  <circle class="fil0 str0" cx="25500" cy="46688" r="150"/>
+  <circle class="fil0 str0" cx="24750" cy="46688" r="300"/>
+  <circle class="fil0 str0" cx="24000" cy="46688" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="46688" r="300"/>
+  <circle class="fil0 str0" cx="28500" cy="45188" r="150"/>
+  <circle class="fil0 str0" cx="22500" cy="45188" r="150"/>
+  <circle class="fil0 str0" cx="27750" cy="45188" r="300"/>
+  <circle class="fil0 str0" cx="27000" cy="45188" r="150"/>
+  <circle class="fil0 str0" cx="24000" cy="45188" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="45188" r="300"/>
+  <circle class="fil0 str0" cx="27750" cy="45938" r="150"/>
+  <circle class="fil0 str0" cx="26250" cy="45938" r="150"/>
+  <circle class="fil0 str0" cx="24750" cy="45938" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="45938" r="150"/>
+  <circle class="fil0 str0" cx="27750" cy="47438" r="150"/>
+  <circle class="fil0 str0" cx="26250" cy="47438" r="150"/>
+  <circle class="fil0 str0" cx="24750" cy="47438" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="47438" r="150"/>
+  <circle class="fil0 str0" cx="21750" cy="34687" r="300"/>
+  <circle class="fil0 str0" cx="22500" cy="34687" r="150"/>
+  <circle class="fil0 str0" cx="28500" cy="34688" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="34687" r="300"/>
+  <circle class="fil0 str0" cx="24000" cy="34687" r="150"/>
+  <circle class="fil0 str0" cx="24750" cy="34687" r="300"/>
+  <circle class="fil0 str0" cx="25500" cy="34688" r="150"/>
+  <circle class="fil0 str0" cx="26250" cy="34688" r="300"/>
+  <circle class="fil0 str0" cx="27000" cy="34688" r="150"/>
+  <circle class="fil0 str0" cx="27750" cy="34688" r="300"/>
+  <circle class="fil0 str0" cx="22500" cy="36187" r="150"/>
+  <circle class="fil0 str0" cx="28500" cy="36188" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="36187" r="300"/>
+  <circle class="fil0 str0" cx="24000" cy="36187" r="150"/>
+  <circle class="fil0 str0" cx="24750" cy="36187" r="300"/>
+  <circle class="fil0 str0" cx="25500" cy="36188" r="150"/>
+  <circle class="fil0 str0" cx="26250" cy="36188" r="300"/>
+  <circle class="fil0 str0" cx="27000" cy="36188" r="150"/>
+  <circle class="fil0 str0" cx="27750" cy="36188" r="300"/>
+  <circle class="fil0 str0" cx="22500" cy="37687" r="150"/>
+  <circle class="fil0 str0" cx="28500" cy="37688" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="37687" r="300"/>
+  <circle class="fil0 str0" cx="24000" cy="37687" r="150"/>
+  <circle class="fil0 str0" cx="27000" cy="37688" r="150"/>
+  <circle class="fil0 str0" cx="27750" cy="37688" r="300"/>
+  <circle class="fil0 str0" cx="23250" cy="36937" r="150"/>
+  <circle class="fil0 str0" cx="24750" cy="36937" r="150"/>
+  <circle class="fil0 str0" cx="26250" cy="36938" r="150"/>
+  <circle class="fil0 str0" cx="27750" cy="36938" r="150"/>
+  <circle class="fil0 str0" cx="23250" cy="35437" r="150"/>
+  <circle class="fil0 str0" cx="24750" cy="35437" r="150"/>
+  <circle class="fil0 str0" cx="26250" cy="35438" r="150"/>
+  <circle class="fil0 str0" cx="27750" cy="35438" r="150"/>
+  <g id="_882520656">
+   <text x="31376" y="21451"  class="fil1 fnt1">60</text>
+   <text x="31403" y="23403"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.35817 -1.35817 1.35817 1.35817 32250 22125)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.05149 -1.05149 1.05149 1.05149 32250 22125)" r="1614"/>
+   <path class="fil0 str1" d="M30379 19653c1215,-922 2954,-829 4063,280 1028,1028 1183,2597 466,3789l348 348 -1061 1061 -348 -348c-1192,717 -2761,562 -3789,-466 -1109,-1109 -1202,-2848 -280,-4063l-374 -374 601 -601 374 374z"/>
+   <circle class="fil0 str0" cx="32250" cy="22125" r="2925"/>
+  </g>
+  <g id="_882514832">
+   <text x="24626" y="21451"  class="fil1 fnt1">60</text>
+   <text x="24653" y="23403"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.35817 -1.35817 1.35817 1.35817 25500 22125)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.05149 -1.05149 1.05149 1.05149 25500 22125)" r="1614"/>
+   <path class="fil0 str1" d="M23629 19653c1215,-922 2954,-829 4063,280 1028,1028 1183,2597 466,3789l348 348 -1061 1061 -348 -348c-1192,717 -2761,562 -3789,-466 -1109,-1109 -1202,-2848 -280,-4063l-374 -374 601 -601 374 374z"/>
+   <circle class="fil0 str0" cx="25500" cy="22125" r="2925"/>
+  </g>
+  <g id="_882507856">
+   <text x="17876" y="21451"  class="fil1 fnt1">60</text>
+   <text x="17903" y="23403"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.35817 -1.35817 1.35817 1.35817 18750 22125)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.05149 -1.05149 1.05149 1.05149 18750 22125)" r="1614"/>
+   <path class="fil0 str1" d="M16879 19653c1215,-922 2954,-829 4063,280 1028,1028 1183,2597 466,3789l348 348 -1061 1061 -348 -348c-1192,717 -2761,562 -3789,-466 -1109,-1109 -1202,-2848 -280,-4063l-374 -374 601 -601 374 374z"/>
+   <circle class="fil0 str0" cx="18750" cy="22125" r="2925"/>
+  </g>
+  <g id="_882571152">
+   <text x="31376" y="28201"  class="fil1 fnt1">60</text>
+   <text x="31403" y="30153"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.35817 -1.35817 1.35817 1.35817 32250 28875)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.05149 -1.05149 1.05149 1.05149 32250 28875)" r="1614"/>
+   <path class="fil0 str1" d="M30379 26403c1215,-922 2954,-829 4063,280 1028,1028 1183,2597 466,3789l348 348 -1061 1061 -348 -348c-1192,717 -2761,562 -3789,-466 -1109,-1109 -1202,-2848 -280,-4063l-374 -374 601 -601 374 374z"/>
+   <circle class="fil0 str0" cx="32250" cy="28875" r="2925"/>
+  </g>
+  <g id="_882566480">
+   <text x="24626" y="28201"  class="fil1 fnt1">60</text>
+   <text x="24653" y="30153"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.35817 -1.35817 1.35817 1.35817 25500 28875)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.05149 -1.05149 1.05149 1.05149 25500 28875)" r="1614"/>
+   <path class="fil0 str1" d="M23629 26403c1215,-922 2954,-829 4063,280 1028,1028 1183,2597 466,3789l348 348 -1061 1061 -348 -348c-1192,717 -2761,562 -3789,-466 -1109,-1109 -1202,-2848 -280,-4063l-374 -374 601 -601 374 374z"/>
+   <circle class="fil0 str0" cx="25500" cy="28875" r="2925"/>
+  </g>
+  <g id="_882558928">
+   <text x="17876" y="28201"  class="fil1 fnt1">60</text>
+   <text x="17903" y="30153"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str1" transform="matrix(1.35817 -1.35817 1.35817 1.35817 18750 28875)" r="1614"/>
+   <circle class="fil0 str1" transform="matrix(1.05149 -1.05149 1.05149 1.05149 18750 28875)" r="1614"/>
+   <path class="fil0 str1" d="M16879 26403c1215,-922 2954,-829 4063,280 1028,1028 1183,2597 466,3789l348 348 -1061 1061 -348 -348c-1192,717 -2761,562 -3789,-466 -1109,-1109 -1202,-2848 -280,-4063l-374 -374 601 -601 374 374z"/>
+   <circle class="fil0 str0" cx="18750" cy="28875" r="2925"/>
+  </g>
+  <path class="fil0 str0" d="M14675 32825l0 -14650c0,-276 224,-500 500,-500l20650 0c276,0 500,224 500,500l0 14650c0,276 -224,500 -500,500l-20650 0c-276,0 -500,-224 -500,-500z"/>
+  <path class="fil0 str0" d="M14675 16888l0 -14650c0,-276 224,-500 500,-500l20650 0c276,0 500,224 500,500l0 14650c0,276 -224,500 -500,500l-20650 0c-276,0 -500,-224 -500,-500z"/>
+  <g id="_882554000">
+   <text x="16751" y="3639"  class="fil1 fnt1">30</text>
+   <text x="16778" y="5590"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="17625" cy="4313" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 17678 4290.53)" r="1224"/>
+   <path class="fil0 str1" d="M18834 6508c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <g id="_882549104">
+   <text x="22001" y="3639"  class="fil1 fnt1">30</text>
+   <text x="22028" y="5590"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="22875" cy="4313" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 22928 4290.53)" r="1224"/>
+   <path class="fil0 str1" d="M24084 6508c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <g id="_882543856">
+   <text x="27251" y="3639"  class="fil1 fnt1">30</text>
+   <text x="27278" y="5590"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="28125" cy="4313" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 28178 4290.53)" r="1224"/>
+   <path class="fil0 str1" d="M29334 6508c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <g id="_784310736">
+   <text x="32501" y="3639"  class="fil1 fnt1">30</text>
+   <text x="32528" y="5590"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="33375" cy="4313" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 33428 4290.53)" r="1224"/>
+   <path class="fil0 str1" d="M34584 6508c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <g id="_784304240">
+   <text x="19376" y="8889"  class="fil1 fnt1">30</text>
+   <text x="19403" y="10840"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="20250" cy="9563" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 20303 9540.53)" r="1224"/>
+   <path class="fil0 str1" d="M21459 11758c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <g id="_784299792">
+   <text x="24626" y="8889"  class="fil1 fnt1">30</text>
+   <text x="24653" y="10840"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="25500" cy="9563" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 25553 9540.53)" r="1224"/>
+   <path class="fil0 str1" d="M26709 11758c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <g id="_784292784">
+   <text x="29876" y="8889"  class="fil1 fnt1">30</text>
+   <text x="29903" y="10840"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="30750" cy="9563" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 30803 9540.53)" r="1224"/>
+   <path class="fil0 str1" d="M31959 11758c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <g id="_784288176">
+   <text x="16751" y="14139"  class="fil1 fnt1">30</text>
+   <text x="16778" y="16090"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="17625" cy="14813" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 17678 14790.5)" r="1224"/>
+   <path class="fil0 str1" d="M18834 17008c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <g id="_784282960">
+   <text x="22001" y="14139"  class="fil1 fnt1">30</text>
+   <text x="22028" y="16090"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="22875" cy="14813" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 22928 14790.5)" r="1224"/>
+   <path class="fil0 str1" d="M24084 17008c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <g id="_784275344">
+   <text x="27251" y="14139"  class="fil1 fnt1">30</text>
+   <text x="27278" y="16090"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="28125" cy="14813" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 28178 14790.5)" r="1224"/>
+   <path class="fil0 str1" d="M29334 17008c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <g id="_784260912">
+   <text x="32501" y="14139"  class="fil1 fnt1">30</text>
+   <text x="32528" y="16090"  class="fil1 fnt1">ml</text>
+   <circle class="fil0 str0" cx="33375" cy="14813" r="2300"/>
+   <circle class="fil0 str1" transform="matrix(-1.15504 1.15504 -1.15504 -1.15504 33428 14790.5)" r="1224"/>
+   <path class="fil0 str1" d="M34584 17008c-942,492 -2133,342 -2924,-449 -874,-874 -965,-2234 -275,-3209l-379 -379 601 -601 379 379c976,-690 2336,-599 3209,275 792,792 941,1982 449,2924l328 328 -1061 1061 -328 -328z"/>
+  </g>
+  <circle class="fil0 str0" cx="35250" cy="7313" r="300"/>
+  <circle class="fil0 str0" cx="35250" cy="11813" r="300"/>
+  <circle class="fil0 str0" cx="15750" cy="7313" r="300"/>
+  <circle class="fil0 str0" cx="15750" cy="11813" r="300"/>
+ </g>
+</svg>
