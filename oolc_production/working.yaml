@@ -8,5 +8,8 @@ production_format:
     file_location: source_files/oolc_a4_2.cdr
   a4_3_size_test_circular_pot_4_oz:
     file_location: source_files/oolc_a4_3.cdr
+  a4_4_c5_box_test-1:
+    file_location: source_files/oolc_a4_4.cdr
+
   
   
