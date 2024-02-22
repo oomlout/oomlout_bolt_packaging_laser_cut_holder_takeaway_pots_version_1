@@ -1,8 +1,8 @@
-# Bolt Packaging Working
+# Bolt Packaging Laser Cut Holder Takeaway Pots Version 1
+
+
 Work on packaging for project bolt.  
   
-
-
 
 
 
@@ -23,4 +23,12 @@ Work on packaging for project bolt.
 
 
 
+
+
+
+## oolc_production
+Laser cutting production files can be found in the [oolc_production](oolc_production) folder.
+
+## 3d printing files
+3d printing files can be found in the [scad_output](scad_output) folder.
 
